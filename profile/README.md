@@ -1,48 +1,52 @@
 <div align="center">
-  <img src="https://wtkpro.site/logo-optimized.webp" width="120" alt="WebToolkit Pro Logo" />
-  <h1>WebToolkit Pro</h1>
-  <p><b>The global standard for secure, client-side developer utilities.</b></p>
+  <h1>Netizen Labs</h1>
+  <p><b>A global ecosystem of open-source, high-performance digital utilities.</b></p>
   
-  [![Website](https://img.shields.io/badge/Visit-wtkpro.site-00D4B4?style=for-the-badge&logo=google-chrome&logoColor=121212)](https://wtkpro.site/)
-  [![X (Twitter) Follow](https://img.shields.io/badge/Follow-@WebToolkitPro-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/WebToolKitPro)
+  [![GitHub stars](https://img.shields.io/github/stars/qurnahub-code/netizenlabs?style=for-the-badge&color=00D4B4)](https://github.com/qurnahub-code/netizenlabs/stargazers)
+  [![Architecture: V2.0](https://img.shields.io/badge/Architecture-V2.0_Blueprint-1DA1F2?style=for-the-badge)](https://github.com/qurnahub-code/netizenlabs)
 </div>
 
 ---
 
-## 🛡️ Privacy-First Engineering
+## 🌐 Our Ecosystem
 
-WebToolkit Pro provides a suite of 145+ developer utilities designed with a strict zero-logs, privacy-by-design architecture. We believe that manipulating JSON, formatting SQL, or decoding JWTs should never involve sending your proprietary payloads or production credentials to a remote server. 
+Netizen Labs is the parent corporation behind a diverse portfolio of privacy-first, edge-delivered web applications and developer tools. We build utilities that solve real-world problems with zero-latency execution.
 
-Every tool on our public platform executes **100% client-side** in your browser via WebAssembly and Edge computing.
+### 🛠️ Developer & Financial Tools
+* **[WebToolkit Pro](https://wtkpro.site/)** - An Open-Source, Privacy-First Suite of 145+ Developer Utilities executing 100% Client-Side.
+* **[TradeConvert](https://tradeconvert.pro/)** - A comprehensive financial and trading conversion tool ecosystem.
+* **[Freelance Tax Calculator](https://github.com/qurnahub-code/freelance-tax-calculator)** - A lightning-fast, client-side calculator for estimating Upwork fees, Fiverr fees, and 1099 taxes.
+* **[SLA Breach Calculator](https://github.com/qurnahub-code/SLA-breach-calculator)** - Enterprise-grade utility for calculating Service Level Agreement breaches.
+* **[Severance Calculator](https://github.com/qurnahub-code/severance-calculator-repo)** - A secure calculator for estimating corporate severance packages.
 
-## 🏢 Corporate Compliance & Enterprise
-
-While our browser utilities remain free for individual engineers, we specialize in solutions for **SOC 2, HIPAA, and GDPR regulated environments**. 
-
-For corporate engineering teams and compliance officers who cannot risk cloud leakage, we provide our **Air-Gapped Enterprise** standalone desktop application.
-* **Zero Cloud Leakage:** Process everything locally. Your data never hits a server.
-* **Automated Audit Trails:** Generate local, encrypted logs of cryptographic activities.
-* **PII Data Scrubbing:** Secure offline CSV manipulation pipelines for HR and Ops.
-
-👉 [**Explore Enterprise Licensing**](https://wtkpro.site/pricing/)
+### 📚 Education & Lifestyle
+* **[StudyNova](https://github.com/qurnahub-code/studynova)** - An open-source study platform designed to help students optimize learning schedules and track focus sessions.
+* **[Quran Tracker](https://github.com/qurnahub-code/quran-tracker)** - A clean, responsive application for tracking daily reading progress.
+* **[Abu Sufyan](https://abusufyan.xyz/)** - Personal portfolio and digital journal ecosystem.
 
 ---
 
-## ⚡ Core Technologies
-We build high-performance, edge-delivered web applications focusing on perfect Core Web Vitals and zero-latency execution.
+## 🛡️ Corporate Architecture & Engineering
 
-* **Architecture:** Next.js App Router, React 18, Tailwind CSS
+While our tools serve different markets, they are all built on the **Ultimate Master Blueprint (V2.0)**. We believe that digital ecosystems should not just be built—they should be self-sustaining. 
+
+Every site under the Netizen Labs umbrella executes with complete autonomy via local **Daily Publisher bots** and **Git-level rollback healers** managed by our central AI HQ Agent.
+
+For engineering uniformity and algorithmic supremacy, we strictly enforce:
+* **Architectural Asymmetry:** (Anti-Template Protocol) Zero template footprints across domains.
+* **AIO Blueprinting:** Automated schema.org definitions injected for LLM citation.
+* **Premium Micro-Interactions:** Custom Emil Design Eng easing curves enforced globally.
+
+## ⚡ Core Technologies
+We build high-performance infrastructure focusing on perfect Core Web Vitals and zero-latency execution.
+
+* **Architecture:** Next.js App Router, Astro, Tailwind CSS
+* **Automation:** Node.js Bots, GitHub Actions CI/CD, Supabase Queueing
 * **Performance:** Edge Computing, Static Site Generation (SSG), Web Workers
 * **SEO:** Automated JSON-LD v2.0 Schema, Algorithmic Sitemaps, Semantic HTML
-
-## 📖 Engineering Research
-We actively research and publish technical journals on modern web infrastructure:
-* [The 3ms TTFB Performance Study](https://wtkpro.site/blog/3ms-ttfb-performance-study/)
-* [Scaling Next.js Sitemaps for Googlebot Diagnostics](https://wtkpro.site/blog/sitemap-index-nextjs-seo/)
-* [Defending Technical SEO in the AI Era](https://wtkpro.site/blog/ai-seo-optimization-2026/)
 
 ---
 <div align="center">
   <i>Engineered with precision for developers who demand security without compromising speed.</i><br>
-  <a href="mailto:hello@wtkpro.site">hello@wtkpro.site</a>
+  <a href="mailto:hello@netizenlabs.com">hello@netizenlabs.com</a>
 </div>
