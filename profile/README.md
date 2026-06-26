@@ -48,5 +48,5 @@ We build high-performance infrastructure focusing on perfect Core Web Vitals and
 ---
 <div align="center">
   <i>Engineered with precision for developers who demand security without compromising speed.</i><br>
-  <a href="mailto:hello@netizenlabs.com">hello@netizenlabs.com</a>
+  <a href="mailto:contact@netizenlabs.com">contact@netizenlabs.com</a>
 </div>
